@@ -1,11 +1,9 @@
 ### Olá, eu sou a Marie 👋
-<div >
-  <div align="center">
+<div align="center">
       <a href="https://github.com/marieclayre">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marieclayre&layout=compact&langs_count=7&theme=cobalt"/>
+      <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marieclayre&layout=compact&langs_count=7&theme=cobalt"/>
 
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=marieclayre&theme=radical&card_width=500)](https://git.io/streak-stats)
-  </div>
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=marieclayre&show_icons=true&theme=synthwave"/>
   
     
 </div>
